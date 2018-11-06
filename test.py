@@ -15,3 +15,6 @@ class Student(object):
 s = Student("zhangsan","tmale")
 print(s.name)
 
+
+
+
